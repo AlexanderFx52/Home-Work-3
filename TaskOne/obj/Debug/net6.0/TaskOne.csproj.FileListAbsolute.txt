@@ -1,0 +1,15 @@
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\bin\Debug\net6.0\TaskOne.exe
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\bin\Debug\net6.0\TaskOne.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll
