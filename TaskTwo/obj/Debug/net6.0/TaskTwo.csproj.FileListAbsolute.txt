@@ -1,0 +1,15 @@
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\bin\Debug\net6.0\TaskTwo.exe
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\bin\Debug\net6.0\TaskTwo.deps.json
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\bin\Debug\net6.0\TaskTwo.runtimeconfig.json
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\bin\Debug\net6.0\TaskTwo.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\bin\Debug\net6.0\TaskTwo.pdb
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.AssemblyReference.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfoInputs.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfo.cs
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.CoreCompileInputs.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\refint\TaskTwo.dll
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.pdb
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\TaskTwo.genruntimeconfig.cache
+D:\GIT-REPO\ForHomeWork\Three\TaskTwo\obj\Debug\net6.0\ref\TaskTwo.dll
